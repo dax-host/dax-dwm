@@ -1,0 +1,18 @@
+# Compiled object files
+*.o
+
+# The generated executable
+dwm
+
+# Patch rejects and backups (crucial for patching)
+*.rej
+*.orig
+
+# Core dumps (if it crashes)
+core
+*.core
+
+# Text editor temporary/swap files
+*~
+*.swp
+*.swo
